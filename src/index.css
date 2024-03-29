@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-flow__node.selected {
+  border: rgb(18, 122, 18) solid 0.5px;
+}
